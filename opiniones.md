@@ -23,6 +23,6 @@
 ---
 
 > La tortilla de patatas y la cebolla van de la mano, en mi familia somos de la receta **"siempre con cebolla"**.  
->   *Si queremos una tortilla española jugosa debe llevar cebolla*.
+>   *Si queremos una tortilla española jugosa debe llevar cebolla*, ~~ni pimientos ni anchoas~~, solo cebolla.
 >
 >> Domingo Montes Barrera
